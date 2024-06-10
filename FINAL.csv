@@ -1,0 +1,543 @@
+Event Name,Log Source,Event Count,Time,Low Level Category,Source IP,Source Port,Destination
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:32:07 AM",Distributed DoS,226.197.61.241,9834,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:32:07 AM",Distributed DoS,254.11.210.168,49270,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:33:18 AM",Distributed DoS,183.59.31.41,63424,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:33:04 AM",Distributed DoS,117.243.218.95,40374,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:33:51 AM",Distributed DoS,81.12.91.6,64292,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:33:37 AM",Distributed DoS,2.216.95.212,59173,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:33:04 AM",Distributed DoS,78.82.26.82,9605,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:33:22 AM",Distributed DoS,16.118.251.67,16031,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:33:35 AM",Distributed DoS,192.17.181.95,58681,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:33:27 AM",Distributed DoS,186.28.115.212,9731,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:33:19 AM",Distributed DoS,176.123.179.25,32130,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:33:29 AM",Distributed DoS,164.253.182.182,40908,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:33:37 AM",Distributed DoS,205.23.87.54,48515,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:33:04 AM",Distributed DoS,71.35.246.76,8236,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:33:01 AM",Distributed DoS,105.158.237.241,12381,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:33:45 AM",Distributed DoS,158.52.124.206,42921,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:33:31 AM",Distributed DoS,247.119.185.15,3955,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:33:15 AM",Distributed DoS,12.20.120.22,10780,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:33:47 AM",Distributed DoS,51.174.113.133,28578,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:33:38 AM",Distributed DoS,170.187.4.244,53853,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:33:48 AM",Distributed DoS,16.139.142.208,4493,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:33:16 AM",Distributed DoS,143.226.64.166,27476,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:33:10 AM",Distributed DoS,41.165.165.92,31615,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:33:21 AM",Distributed DoS,133.70.230.70,42101,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:33:28 AM",Distributed DoS,107.182.138.137,58226,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:33:27 AM",Distributed DoS,79.240.19.150,44996,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:33:23 AM",Distributed DoS,244.127.17.217,32742,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:33:27 AM",Distributed DoS,213.127.161.178,59340,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:33:21 AM",Distributed DoS,19.211.226.241,25276,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:33:50 AM",Distributed DoS,209.29.213.5,4407,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:33:43 AM",Distributed DoS,193.95.98.171,60627,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:33:16 AM",Distributed DoS,248.197.234.75,50070,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:33:05 AM",Distributed DoS,119.186.183.174,35937,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:33:26 AM",Distributed DoS,218.53.49.182,37358,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:33:32 AM",Distributed DoS,167.132.48.212,63436,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:33:31 AM",Distributed DoS,19.78.192.109,60623,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:33:28 AM",Distributed DoS,62.23.13.59,36869,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:33:11 AM",Distributed DoS,112.251.177.207,6320,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:33:45 AM",Distributed DoS,200.107.129.245,44966,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:33:11 AM",Distributed DoS,57.238.72.61,1787,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:33:09 AM",Distributed DoS,72.205.255.130,16583,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:33:08 AM",Distributed DoS,12.80.205.8,31098,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:34:16 AM",Distributed DoS,103.234.5.186,26264,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:34:41 AM",Distributed DoS,206.21.4.125,64021,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:34:27 AM",Distributed DoS,166.241.115.228,64435,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:34:12 AM",Distributed DoS,241.212.124.104,34639,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:34:25 AM",Distributed DoS,105.173.140.54,54057,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:34:14 AM",Distributed DoS,180.99.150.216,7637,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:34:43 AM",Distributed DoS,88.247.195.239,36465,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:34:39 AM",Distributed DoS,33.198.68.137,57949,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:34:22 AM",Distributed DoS,116.161.222.124,32204,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:34:28 AM",Distributed DoS,93.227.140.195,4465,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:34:34 AM",Distributed DoS,210.183.56.244,14684,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:34:00 AM",Distributed DoS,60.225.76.197,9780,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:34:30 AM",Distributed DoS,198.77.250.18,24381,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:34:08 AM",Distributed DoS,109.0.77.171,28524,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:34:06 AM",Distributed DoS,209.95.202.245,27409,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:34:31 AM",Distributed DoS,221.62.2.229,24266,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:34:43 AM",Distributed DoS,143.71.250.52,7365,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:34:27 AM",Distributed DoS,176.211.35.1,58749,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:34:31 AM",Distributed DoS,82.20.65.50,34263,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:34:16 AM",Distributed DoS,196.205.239.187,19809,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:34:39 AM",Distributed DoS,110.10.199.150,23881,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:34:24 AM",Distributed DoS,18.102.231.129,39723,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:34:08 AM",Distributed DoS,113.68.141.138,57127,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:34:04 AM",Distributed DoS,44.213.23.248,15198,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:34:08 AM",Distributed DoS,183.161.245.106,57963,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:34:42 AM",Distributed DoS,125.169.12.144,8566,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:34:43 AM",Distributed DoS,128.20.17.26,20909,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:34:24 AM",Distributed DoS,61.101.111.93,63146,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:34:12 AM",Distributed DoS,76.9.235.255,5843,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:34:37 AM",Distributed DoS,83.244.197.62,52891,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:35:25 AM",Distributed DoS,128.43.50.96,43770,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:35:45 AM",Distributed DoS,143.163.169.138,10818,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:35:12 AM",Distributed DoS,220.74.120.192,33405,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:35:31 AM",Distributed DoS,84.219.198.80,1840,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:35:42 AM",Distributed DoS,103.166.181.236,27423,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:35:02 AM",Distributed DoS,69.75.46.173,42557,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:35:01 AM",Distributed DoS,248.92.219.195,63792,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:35:04 AM",Distributed DoS,195.221.145.154,40537,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:35:13 AM",Distributed DoS,160.50.53.204,56188,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:35:27 AM",Distributed DoS,91.65.35.248,60185,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:35:05 AM",Distributed DoS,124.140.89.79,59675,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:35:13 AM",Distributed DoS,153.58.84.221,64953,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:35:06 AM",Distributed DoS,8.37.21.234,61808,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:35:20 AM",Distributed DoS,59.211.184.211,5779,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:35:48 AM",Distributed DoS,167.1.32.67,22827,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:35:23 AM",Distributed DoS,57.64.94.17,36525,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:35:19 AM",Distributed DoS,140.122.59.183,51345,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:35:03 AM",Distributed DoS,45.232.132.21,56925,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:35:33 AM",Distributed DoS,79.237.44.133,9605,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:35:33 AM",Distributed DoS,246.150.251.193,30933,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:35:06 AM",Distributed DoS,4.162.141.227,20616,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:35:03 AM",Distributed DoS,56.232.121.209,37778,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:35:19 AM",Distributed DoS,55.52.51.21,42830,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:35:16 AM",Distributed DoS,255.40.147.148,61471,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:35:23 AM",Distributed DoS,17.85.86.154,40972,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:35:48 AM",Distributed DoS,24.35.205.122,25298,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:35:17 AM",Distributed DoS,242.99.76.133,22564,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:35:26 AM",Distributed DoS,75.194.115.55,2659,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:35:27 AM",Distributed DoS,56.231.79.233,35418,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:35:06 AM",Distributed DoS,16.143.244.232,54147,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:35:42 AM",Distributed DoS,194.83.237.192,39240,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:35:24 AM",Distributed DoS,20.16.12.158,55290,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:35:39 AM",Distributed DoS,141.46.144.216,25954,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:35:28 AM",Distributed DoS,247.134.97.167,64027,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:35:14 AM",Distributed DoS,62.176.137.78,50151,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:35:33 AM",Distributed DoS,250.108.177.139,17348,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:35:35 AM",Distributed DoS,128.89.245.84,41623,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:35:22 AM",Distributed DoS,4.230.47.254,49020,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:35:09 AM",Distributed DoS,51.79.21.124,62529,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:35:04 AM",Distributed DoS,41.87.16.192,63131,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:42 AM",Distributed DoS,208.63.66.199,62391,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:03 AM",Distributed DoS,24.11.100.23,33582,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:04 AM",Distributed DoS,165.101.153.183,29372,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:04 AM",Distributed DoS,154.247.234.211,6224,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:05 AM",Distributed DoS,107.104.222.63,2987,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:22 AM",Distributed DoS,136.109.217.108,49915,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:11 AM",Distributed DoS,87.78.70.150,44617,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:26 AM",Distributed DoS,216.57.213.147,62254,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:04 AM",Distributed DoS,153.22.25.158,15564,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:28 AM",Distributed DoS,218.151.49.182,56358,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:45 AM",Distributed DoS,255.138.209.67,60415,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:15 AM",Distributed DoS,211.136.164.184,54520,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:16 AM",Distributed DoS,198.155.106.199,52144,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:44 AM",Distributed DoS,109.24.196.57,53867,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:23 AM",Distributed DoS,110.192.45.157,16852,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:27 AM",Distributed DoS,78.9.117.205,57816,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:22 AM",Distributed DoS,213.40.139.170,32257,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:18 AM",Distributed DoS,98.184.163.12,16565,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:31 AM",Distributed DoS,147.220.213.20,25920,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:13 AM",Distributed DoS,47.231.125.13,59098,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:44 AM",Distributed DoS,171.92.50.147,50250,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:34 AM",Distributed DoS,126.61.41.136,61605,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:17 AM",Distributed DoS,250.51.52.140,10496,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:04 AM",Distributed DoS,4.113.85.138,32219,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:30 AM",Distributed DoS,108.29.164.5,9735,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:04 AM",Distributed DoS,169.194.75.224,31900,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:23 AM",Distributed DoS,59.146.241.27,6446,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:05 AM",Distributed DoS,120.127.41.155,50489,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:44 AM",Distributed DoS,19.3.211.105,57401,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:03 AM",Distributed DoS,88.144.253.50,62669,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:12 AM",Distributed DoS,115.85.150.246 ,11526,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:23 AM",Distributed DoS,14.170.32.143,7212,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:35 AM",Distributed DoS,188.100.235.162,57217,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:34 AM",Distributed DoS,38.93.155.107,1541,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:12 AM",Distributed DoS,7.89.130.136,45424,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:19 AM",Distributed DoS,14.95.150.211,3951,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:08 AM",Distributed DoS,119.47.38.243,31080,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:10 AM",Distributed DoS,9.208.113.246,15974,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:18 AM",Distributed DoS,184.0.94.14,55747,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:47 AM",Distributed DoS,11.200.148.171,18220,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:42 AM",Distributed DoS,208.63.66.199,62391,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:03 AM",Distributed DoS,24.11.100.23,33582,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:04 AM",Distributed DoS,165.101.153.183,29372,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:04 AM",Distributed DoS,154.247.234.211,6224,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:05 AM",Distributed DoS,107.104.222.63,2987,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:22 AM",Distributed DoS,136.109.217.108,49915,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:11 AM",Distributed DoS,87.78.70.150,44617,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:26 AM",Distributed DoS,216.57.213.147,62254,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:04 AM",Distributed DoS,153.22.25.158,15564,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:28 AM",Distributed DoS,218.151.49.182,56358,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:45 AM",Distributed DoS,255.138.209.67,60415,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:15 AM",Distributed DoS,211.136.164.184,54520,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:16 AM",Distributed DoS,198.155.106.199,52144,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:44 AM",Distributed DoS,109.24.196.57,53867,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:23 AM",Distributed DoS,110.192.45.157,16852,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:27 AM",Distributed DoS,78.9.117.205,57816,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:22 AM",Distributed DoS,213.40.139.170,32257,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:18 AM",Distributed DoS,98.184.163.12,16565,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:31 AM",Distributed DoS,147.220.213.20,25920,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:13 AM",Distributed DoS,47.231.125.13,59098,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:44 AM",Distributed DoS,171.92.50.147,50250,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:34 AM",Distributed DoS,126.61.41.136,61605,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:17 AM",Distributed DoS,250.51.52.140,10496,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:04 AM",Distributed DoS,4.113.85.138,32219,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:30 AM",Distributed DoS,108.29.164.5,9735,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:04 AM",Distributed DoS,169.194.75.224,31900,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:23 AM",Distributed DoS,59.146.241.27,6446,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:05 AM",Distributed DoS,120.127.41.155,50489,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:44 AM",Distributed DoS,88.144.253.50,57401,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:03 AM",Distributed DoS,115.85.150.246,62669,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:12 AM",Distributed DoS,14.170.32.143,11526,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:23 AM",Distributed DoS,188.100.235.162,7212,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:35 AM",Distributed DoS,38.93.155.107,57217,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:34 AM",Distributed DoS,38.93.155.107,1541,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:12 AM",Distributed DoS,7.89.130.136,45424,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:19 AM",Distributed DoS,14.95.150.211,3951,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:08 AM",Distributed DoS,119.47.38.243,31080,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:10 AM",Distributed DoS,9.208.113.246,15974,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:18 AM",Distributed DoS,184.0.94.14,55747,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:47 AM",Distributed DoS,11.200.148.171,18220,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:47:53 AM",Distributed DoS,236.12.31.211,33633,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:47:53 AM",Distributed DoS,247.120.112.62,42654,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:47:24 AM",Distributed DoS,241.107.207.254,39448,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:47:24 AM",Distributed DoS,226.180.193.5,40378,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:52 AM",Distributed DoS,239.202.161.28,10590,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:51 AM",Distributed DoS,244.91.160.189,47269,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:49 AM",Distributed DoS,202.18.99.216,45546,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:37 AM",Distributed DoS,124.53.191.127,24112,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:36 AM",Distributed DoS,223.144.4.106,22231,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:32 AM",Distributed DoS,156.143.198.45,40027,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:18 AM",Distributed DoS,30.161.156.81,10444,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:24 AM",Distributed DoS,43.14.121.70,46709,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:04 AM",Distributed DoS,173.159.27.97,37969,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:37 AM",Distributed DoS,34.69.149.187,42998,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:15 AM",Distributed DoS,70.106.173.115,11876,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:33 AM",Distributed DoS,214.112.136.70,2112,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:44 AM",Distributed DoS,187.215.244.131,51487,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:31 AM",Distributed DoS,195.28.221.75,53099,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:50 AM",Distributed DoS,175.221.114.185,39360,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:11 AM",Distributed DoS,20.129.134.221,41134,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:26 AM",Distributed DoS,164.201.127.87,13272,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:50 AM",Distributed DoS,207.204.116.186,38588,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:29 AM",Distributed DoS,186.62.28.182,24740,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:37 AM",Distributed DoS,104.231.160.8,37032,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:02 AM",Distributed DoS,144.250.74.72,53119,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:31 AM",Distributed DoS,192.75.8.209,63228,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:23 AM",Distributed DoS,68.9.49.141,3210,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:05 AM",Distributed DoS,202.194.61.48,22839,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:03 AM",Distributed DoS,32.79.229.126,36942,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:16 AM",Distributed DoS,46.20.106.140,43199,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:32 AM",Distributed DoS,49.174.78.85,18153,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:47 AM",Distributed DoS,142.98.135.227,16425,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:31 AM",Distributed DoS,61.129.129.117,33933,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:42 AM",Distributed DoS,165.126.24.228,25945,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:36 AM",Distributed DoS,194.113.155.137,26143,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:40 AM",Distributed DoS,104.35.88.152,42186,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:22 AM",Distributed DoS,199.18.195.45,63666,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:29 AM",Distributed DoS,153.33.200.217,37774,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:48 AM",Distributed DoS,211.109.112.49,45979,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:10 AM",Distributed DoS,42.1.4.36,45667,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:29 AM",Distributed DoS,68.245.67.94,60829,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:36 AM",Distributed DoS,86.58.83.21,59263,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:39 AM",Distributed DoS,162.123.134.8,51725,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:26 AM",Distributed DoS,73.93.201.165,34512,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:46 AM",Distributed DoS,92.243.67.155,16761,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:12 AM",Distributed DoS,164.4.162.163,3423,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:04 AM",Distributed DoS,207.61.237.223,30597,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:08 AM",Distributed DoS,74.76.54.124,58170,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:17 AM",Distributed DoS,97.112.144.225,16051,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:04 AM",Distributed DoS,205.45.16.133,35726,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:12 AM",Distributed DoS,210.199.166.178,44310,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:22 AM",Distributed DoS,117.232.21.129,54426,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:12 AM",Distributed DoS,183.101.96.47,27100,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:18 AM",Distributed DoS,240.230.247.163,39489,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:27 AM",Distributed DoS,47.49.71.223,59331,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:18 AM",Distributed DoS,184.176.150.128,52121,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:13 AM",Distributed DoS,85.196.115.157,46401,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:14 AM",Distributed DoS,175.251.49.78,42782,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:31 AM",Distributed DoS,190.126.135.24,61613,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:11 AM",Distributed DoS,104.17.71.105,40770,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:14 AM",Distributed DoS,16.135.203.201,1079,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:17 AM",Distributed DoS,117.180.197.217,28005,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:08 AM",Distributed DoS,25.225.109.33,51849,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:25 AM",Distributed DoS,110.4.250.238,51495,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:04 AM",Distributed DoS,193.209.193.89,48826,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:31 AM",Distributed DoS,15.227.240.235,26566,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:02 AM",Distributed DoS,248.89.241.28,63430,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:30 AM",Distributed DoS,58.43.131.67,6945,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:11 AM",Distributed DoS,201.84.202.222,20131,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:20 AM",Distributed DoS,82.212.40.96,13835,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:24 AM",Distributed DoS,133.178.66.60,31338,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:21 AM",Distributed DoS,66.4.26.9,7399,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:29 AM",Distributed DoS,60.214.3.200,45132,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:35 AM",Distributed DoS,217.211.89.208,43874,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:11 AM",Distributed DoS,121.208.152.128,2143,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:23 AM",Distributed DoS,30.41.5.114,33395,192.168.142.142
+Service (daemon) stop,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:31 AM",Service Stopped,192.168.142.140,0,192.168.142.140
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Stored,192.168.142.140,0,192.168.142.140
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Stored,192.168.142.140,0,192.168.142.140
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Stored,192.168.142.140,0,192.168.142.140
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Stored,192.168.142.140,0,192.168.142.140
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Stored,192.168.142.140,0,192.168.142.140
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Stored,192.168.142.140,0,192.168.142.140
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Stored,192.168.142.140,0,192.168.142.140
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Stored,192.168.142.140,0,192.168.142.140
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Stored,192.168.142.140,0,192.168.142.140
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Stored,192.168.142.140,0,192.168.142.140
+Service (daemon) start,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Service Started,192.168.142.140,0,192.168.142.140
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Stored,192.168.142.140,0,192.168.142.140
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Stored,192.168.142.140,0,192.168.142.140
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Stored,192.168.142.140,0,192.168.142.140
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Stored,192.168.142.140,0,192.168.142.140
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Stored,192.168.142.140,0,192.168.142.140
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:08:55 AM",Stored,192.168.142.140,0,192.168.142.140
+"Create,delete,negotiate",LinuxServer @vmcentosTA,222,"May 5, 2024, 4:08:52 AM",Information,192.168.142.140,0,192.168.142.140
+Ssh Message,LinuxServer @vmcentosTA,74,"May 5, 2024, 4:08:52 AM",Messages,192.168.142.140,0,192.168.142.140
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:08:52 AM",Stored,192.168.142.140,0,192.168.142.140
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:45:39 AM",Distributed DoS,255.144.142.129,8719,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:45:37 AM",Distributed DoS,67.56.50.230,3607,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:45:39 AM",Distributed DoS,248.106.190.164,3077,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:45:46 AM",Distributed DoS,130.53.141.125,58857,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:45:38 AM",Distributed DoS,32.186.72.28,28337,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:45:38 AM",Distributed DoS,244.234.13.177,56175,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:45:40 AM",Distributed DoS,2.233.9.115,38385,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:45:44 AM",Distributed DoS,37.98.65.169,64443,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:45:49 AM",Distributed DoS,168.16.198.177,24045,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:45:37 AM",Distributed DoS,209.204.113.254,39891,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:45:44 AM",Distributed DoS,144.55.50.54,21705,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:45:39 AM",Distributed DoS,66.156.247.23,12280,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:45:47 AM",Distributed DoS,76.40.40.118,43260,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:45:40 AM",Distributed DoS,93.130.18.247,36954,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:45:38 AM",Distributed DoS,182.215.179.224,52982,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:45:44 AM",Distributed DoS,46.49.255.189,24957,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:45:39 AM",Distributed DoS,205.18.116.153,41759,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:45:45 AM",Distributed DoS,246.235.250.13,6100,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:45:43 AM",Distributed DoS,16.242.166.212,30834,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:45:45 AM",Distributed DoS,213.72.108.13,5319,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:45:41 AM",Distributed DoS,216.44.0.194,45189,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:45:38 AM",Distributed DoS,217.3.0.128,36622,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:45:40 AM",Distributed DoS,124.165.161.170,40842,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:45:48 AM",Distributed DoS,207.208.241.195,47266,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:45:38 AM",Distributed DoS,131.86.102.157,19283,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:45:38 AM",Distributed DoS,121.95.11.185,44697,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:45:50 AM",Distributed DoS,108.81.72.108,38896,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:45:45 AM",Distributed DoS,119.191.167.74,42200,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:45:41 AM",Distributed DoS,159.18.86.233,39216,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:45:37 AM",Distributed DoS,165.29.159.1,26893,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:45:40 AM",Distributed DoS,20.19.148.176,12126,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:45:43 AM",Distributed DoS,179.244.137.179,29538,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:45:42 AM",Distributed DoS,81.127.2.161,49511,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:45:38 AM",Distributed DoS,60.208.110.175,20303,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:45:51 AM",Distributed DoS,144.16.84.147,2419,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:45:47 AM",Distributed DoS,128.85.39.15,48595,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:45:38 AM",Distributed DoS,19.211.168.218,52248,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:45:38 AM",Distributed DoS,155.124.101.170,32248,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:45:44 AM",Distributed DoS,145.99.174.182,15432,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:45:50 AM",Distributed DoS,139.159.177.86,16254,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:05 AM",Distributed DoS,66.111.192.172,6001,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:12 AM",Distributed DoS,189.134.172.117,59147,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:06 AM",Distributed DoS,53.230.228.229,44217,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:18 AM",Distributed DoS,70.162.111.53,5773,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:05 AM",Distributed DoS,62.152.146.34,22776,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:18 AM",Distributed DoS,67.159.84.85,14148,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:06 AM",Distributed DoS,1.221.9.243,2766,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:19 AM",Distributed DoS,179.154.249.139,48285,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:13 AM",Distributed DoS,10.156.203.206,6913,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:01 AM",Distributed DoS,188.107.221.84,22324,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:15 AM",Distributed DoS,106.29.109.250,10143,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:06 AM",Distributed DoS,104.66.2.33,53566,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:13 AM",Distributed DoS,140.168.42.145,1068,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:19 AM",Distributed DoS,131.229.175.35,40694,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:03 AM",Distributed DoS,214.150.15.104,59722,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:07 AM",Distributed DoS,188.91.169.208,55467,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:18 AM",Distributed DoS,13.176.203.86,13278,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:00 AM",Distributed DoS,53.233.40.24,17513,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:15 AM",Distributed DoS,218.129.78.77,16703,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:09 AM",Distributed DoS,122.254.212.101,19430,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:03 AM",Distributed DoS,3.186.136.163,12453,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:14 AM",Distributed DoS,189.226.134.196,36429,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:12 AM",Distributed DoS,169.36.36.96,34304,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:14 AM",Distributed DoS,17.227.131.43,11165,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:09 AM",Distributed DoS,8.154.150.109,29838,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:17 AM",Distributed DoS,214.232.38.20,40341,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:15 AM",Distributed DoS,65.97.116.42,3552,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:06 AM",Distributed DoS,98.145.46.209,59245,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:01 AM",Distributed DoS,221.48.71.128,8843,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:19 AM",Distributed DoS,252.86.176.2,18284,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:11 AM",Distributed DoS,37.117.158.223,50602,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:10 AM",Distributed DoS,36.230.35.127,28031,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:15 AM",Distributed DoS,241.237.200.145,50942,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:11 AM",Distributed DoS,82.170.199.245,11795,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:13 AM",Distributed DoS,101.110.180.191,47561,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:01 AM",Distributed DoS,3.197.37.28,27854,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:18 AM",Distributed DoS,23.199.40.25,51697,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:02 AM",Distributed DoS,43.47.4.243,33874,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:18 AM",Distributed DoS,33.185.17.139,30749,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:03 AM",Distributed DoS,113.28.243.121,18123,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:50:13 AM",Distributed DoS,145.90.175.109,16082,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:50:17 AM",Distributed DoS,120.227.253.91,13858,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:50:11 AM",Distributed DoS,14.23.108.209,26344,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:50:13 AM",Distributed DoS,2.170.221.81,1794,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:50:14 AM",Distributed DoS,139.237.175.123,32368,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:50:10 AM",Distributed DoS,121.214.17.17,35651,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:50:17 AM",Distributed DoS,113.243.206.251,61828,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:50:07 AM",Distributed DoS,116.231.60.186,56072,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:50:06 AM",Distributed DoS,34.10.235.192,55118,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:50:05 AM",Distributed DoS,110.121.240.57,9633,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:50:05 AM",Distributed DoS,37.76.87.172,26935,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:50:15 AM",Distributed DoS,223.189.116.173,59129,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:50:17 AM",Distributed DoS,187.60.250.117,38015,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:50:06 AM",Distributed DoS,124.29.156.45,5500,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:50:04 AM",Distributed DoS,41.109.219.144,8385,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:50:19 AM",Distributed DoS,110.62.61.54,38639,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:50:13 AM",Distributed DoS,13.192.230.191,43777,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:50:12 AM",Distributed DoS,107.104.176.79,33580,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:50:15 AM",Distributed DoS,245.155.39.213,37798,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:50:05 AM",Distributed DoS,115.8.159.200,40837,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:50:17 AM",Distributed DoS,13.249.64.168,8752,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:50:06 AM",Distributed DoS,180.200.68.18,15758,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"ay 27, 2024, 9:50:03 AM",Distributed DoS,20.37.154.192,39797,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:50:00 AM",Distributed DoS,34.41.255.246,4399,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:50:01 AM",Distributed DoS,196.14.73.194,15639,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:50:15 AM",Distributed DoS,155.105.21.195,11589,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:50:04 AM",Distributed DoS,20.201.107.96,52855,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:50:04 AM",Distributed DoS,77.199.194.195,25961,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:50:02 AM",Distributed DoS,41.157.236.23,62479,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:50:04 AM",Distributed DoS,205.175.91.226,53680,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:50:19 AM",Distributed DoS,195.56.41.69,20164,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:50:14 AM",Distributed DoS,66.157.189.223,28773,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:50:08 AM",Distributed DoS,255.21.195.163,7465,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:50:12 AM",Distributed DoS,190.214.21.199,47116,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:50:16 AM",Distributed DoS,181.186.48.166,38333,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:50:12 AM",Distributed DoS,123.113.168.165,55670,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:50:09 AM",Distributed DoS,144.98.62.201,30197,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:50:06 AM",Distributed DoS,38.62.71.72,18779,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:48:01 AM",Distributed DoS,207.195.149.240,9993,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:48:17 AM",Distributed DoS,94.194.201.240,38330,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:48:08 AM",Distributed DoS,65.17.251.252,40087,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:48:21 AM",Distributed DoS,109.143.244.72,64967,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:48:14 AM",Distributed DoS,85.205.29.184,15838,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:48:11 AM",Distributed DoS,247.7.199.144,17878,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:48:07 AM",Distributed DoS,182.50.171.127,22748,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:48:00 AM",Distributed DoS,164.90.149.157,36651,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:48:14 AM",Distributed DoS,66.15.66.192,59525,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:48:18 AM",Distributed DoS,201.130.181.39,19893,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:48:09 AM",Distributed DoS,44.128.34.239,8074,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:48:03 AM",Distributed DoS,110.38.40.170,36688,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:48:13 AM",Distributed DoS,10.13.14.79,28090,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:48:00 AM",Distributed DoS,83.88.222.51,17129,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:48:21 AM",Distributed DoS,71.156.133.205,10531,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:48:02 AM",Distributed DoS,20.53.233.195,17885,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:48:10 AM",Distributed DoS,7.253.199.73,52084,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:48:17 AM",Distributed DoS,19.188.31.14,21645,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:48:09 AM",Distributed DoS,35.159.177.22,54248,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:48:21 AM",Distributed DoS,108.157.211.50,37335,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:48:20 AM",Distributed DoS,97.241.170.35,52557,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:48:01 AM",Distributed DoS,199.104.191.231,30965,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:48:20 AM",Distributed DoS,148.17.49.18,32755,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:48:16 AM",Distributed DoS,172.194.144.79,59976,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:48:10 AM",Distributed DoS,6.52.249.116,31760,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:48:14 AM",Distributed DoS,17.157.16.98,64429,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:48:01 AM",Distributed DoS,251.164.209.165,64526,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:48:05 AM",Distributed DoS,24.244.104.41,38857,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:48:16 AM",Distributed DoS,90.166.180.91,58636,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:48:18 AM",Distributed DoS,187.117.17.159,12066,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:48:10 AM",Distributed DoS,61.136.253.198,31483,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:48:10 AM",Distributed DoS,84.211.21.187,47924,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:48:13 AM",Distributed DoS,199.187.105.101,51862,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:48:12 AM",Distributed DoS,128.167.232.31,34619,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:48:22 AM",Distributed DoS,217.159.216.36,6487,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:48:17 AM",Distributed DoS,102.149.230.97,37490,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:48:08 AM",Distributed DoS,137.131.251.64,33975,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:48:01 AM",Distributed DoS,89.45.77.71,31534,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:48:18 AM",Distributed DoS,250.82.148.103,27366,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:48:07 AM",Distributed DoS,211.191.210.29,61734,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:47:03 AM",Distributed DoS,52.72.176.51,61281,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:47:04 AM",Distributed DoS,10.244.226.137,15353,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:47:22 AM",Distributed DoS,17.9.60.174,43353,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:47:11 AM",Distributed DoS,205.147.149.118,62023,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:47:13 AM",Distributed DoS,122.225.41.199,13101,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:47:12 AM",Distributed DoS,215.155.5.233,11597,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:47:03 AM",Distributed DoS,102.24.115.42,54515,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:47:15 AM",Distributed DoS,129.157.88.43,34024,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:47:08 AM",Distributed DoS,80.246.93.40,21549,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:47:14 AM",Distributed DoS,165.29.93.117,39176,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:47:23 AM",Distributed DoS,114.77.33.161,37582,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:47:04 AM",Distributed DoS,50.171.118.13,14102,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:47:11 AM",Distributed DoS,102.181.246.136,2821,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:47:17 AM",Distributed DoS,103.138.246.251,20809,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:47:18 AM",Distributed DoS,12.35.132.69,15633,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:47:19 AM",Distributed DoS,125.241.57.54,25491,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:47:18 AM",Distributed DoS,67.152.169.66,12594,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:47:05 AM",Distributed DoS,4.253.18.238,6783,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:47:04 AM",Distributed DoS,241.145.199.187,59275,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:47:09 AM",Distributed DoS,9.210.221.239,28876,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:47:05 AM",Distributed DoS,71.58.14.113,7567,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:47:01 AM",Distributed DoS,132.102.122.21,61922,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:47:17 AM",Distributed DoS,22.119.62.2,52802,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:47:17 AM",Distributed DoS,174.3.214.133,49644,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:47:07 AM",Distributed DoS,216.77.49.130,38691,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:47:15 AM",Distributed DoS,8.172.41.27,24795,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:47:02 AM",Distributed DoS,17.183.62.228,39146,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:47:17 AM",Distributed DoS,168.31.165.210,59562,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:47:02 AM",Distributed DoS,247.237.148.169,42518,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:47:13 AM",Distributed DoS,216.212.45.1,61143,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:47:11 AM",Distributed DoS,131.21.210.132,46719,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:47:12 AM",Distributed DoS,42.129.189.23,49400,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:47:13 AM",Distributed DoS,189.191.55.146,17920,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:47:09 AM",Distributed DoS,151.95.166.254,48305,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:47:18 AM",Distributed DoS,209.166.129.197,55480,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:47:13 AM",Distributed DoS,217.253.170.44,31156,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:47:14 AM",Distributed DoS,143.109.163.115,56362,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:47:14 AM",Distributed DoS,25.17.213.1,43120,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:01 AM",Distributed DoS,188.107.221.84,22324,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:15 AM",Distributed DoS,106.29.109.250,10143,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:06 AM",Distributed DoS,104.66.2.33,53566,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:13 AM",Distributed DoS,140.168.42.145,1068,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:19 AM",Distributed DoS,131.229.175.35,40694,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:03 AM",Distributed DoS,214.150.15.104,59722,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:07 AM",Distributed DoS,188.91.169.208,55467,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:18 AM",Distributed DoS,13.176.203.86,13278,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:00 AM",Distributed DoS,53.233.40.24,17513,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:15 AM",Distributed DoS,218.129.78.77,16703,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:09 AM",Distributed DoS,122.254.212.101,19430,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:03 AM",Distributed DoS,3.186.136.163,12453,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:14 AM",Distributed DoS,189.226.134.196,36429,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:12 AM",Distributed DoS,169.36.36.96,34304,192.168.142.142
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 27, 2024, 9:51:14 AM",Distributed DoS,17.227.131.43,11165,192.168.142.142
+Service (daemon) stop,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:31 AM",Service Stopped,192.168.142.140,0,192.168.142.142
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Stored,192.168.142.140,0,192.168.142.142
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Stored,192.168.142.140,0,192.168.142.142
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Stored,192.168.142.140,0,192.168.142.142
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Stored,192.168.142.140,0,192.168.142.142
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Stored,192.168.142.140,0,192.168.142.142
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Stored,192.168.142.140,0,192.168.142.142
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Stored,192.168.142.140,0,192.168.142.142
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Stored,192.168.142.140,0,192.168.142.142
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Stored,192.168.142.140,0,192.168.142.142
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Stored,192.168.142.140,0,192.168.142.142
+Service (daemon) start,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Service Started,192.168.142.140,0,192.168.142.142
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Stored,192.168.142.140,0,192.168.142.142
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Stored,192.168.142.140,0,192.168.142.142
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Stored,192.168.142.140,0,192.168.142.142
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Stored,192.168.142.140,0,192.168.142.142
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Stored,192.168.142.140,0,192.168.142.142
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:08:55 AM",Stored,192.168.142.140,0,192.168.142.142
+"Create,delete,negotiate",LinuxServer @vmcentosTA,222,"May 5, 2024, 4:08:52 AM",Information,192.168.142.140,0,192.168.142.142
+Ssh Message,LinuxServer @vmcentosTA,74,"May 5, 2024, 4:08:52 AM",Messages,192.168.142.140,0,192.168.142.142
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:08:52 AM",Stored,192.168.142.140,0,192.168.142.142
+Service (daemon) stop,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:31 AM",Service Stopped,192.168.142.140,0,192.168.142.142
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Stored,192.168.142.140,0,192.168.142.142
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Stored,192.168.142.140,0,192.168.142.142
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Stored,192.168.142.140,0,192.168.142.142
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Stored,192.168.142.140,0,192.168.142.142
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Stored,192.168.142.140,0,192.168.142.142
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Stored,192.168.142.140,0,192.168.142.142
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Stored,192.168.142.140,0,192.168.142.142
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Stored,192.168.142.140,0,192.168.142.142
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Stored,192.168.142.140,0,192.168.142.142
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Stored,192.168.142.140,0,192.168.142.142
+Service (daemon) start,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Service Started,192.168.142.140,0,192.168.142.142
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Stored,192.168.142.140,0,192.168.142.142
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Stored,192.168.142.140,0,192.168.142.142
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Stored,192.168.142.140,0,192.168.142.142
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Stored,192.168.142.140,0,192.168.142.142
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:17:21 AM",Stored,192.168.142.140,0,192.168.142.142
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:08:55 AM",Stored,192.168.142.140,0,192.168.142.142
+"Create,delete,negotiate",LinuxServer @vmcentosTA,222,"May 5, 2024, 4:08:52 AM",Information,192.168.142.140,0,192.168.142.142
+Ssh Message,LinuxServer @vmcentosTA,74,"May 5, 2024, 4:08:52 AM",Messages,192.168.142.140,0,192.168.142.142
+Linux login messages Message,LinuxServer @vmcentosTA,1,"May 5, 2024, 4:08:52 AM",Stored,192.168.142.140,0,192.168.142.142

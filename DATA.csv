@@ -1,0 +1,601 @@
+Event Name,Log Source,Event Count,Time,Low Level Category,Source IP,Source Port,Destination,Category
+Service (daemon) stop,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:02 AM",Service Stopped,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:03 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:04 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:05 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:06 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:07 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:08 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:09 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:10 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:11 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:12 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Service (daemon) start,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:13 AM",Service Started,192.168.142.140,0,192.168.142.140,Normal
+Service (daemon) stop,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:14 AM",Service Stopped,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:15 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:16 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:17 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:18 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:19 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:20 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:21 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:22 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:23 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:24 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Service (daemon) start,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:25 AM",Service Started,192.168.142.140,0,192.168.142.140,Normal
+Service (daemon) stop,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:26 AM",Service Stopped,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:27 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:28 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:29 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:30 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:31 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:32 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:33 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:34 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:35 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:36 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Service (daemon) start,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:37 AM",Service Started,192.168.142.140,0,192.168.142.140,Normal
+Service (daemon) stop,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:38 AM",Service Stopped,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:39 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:40 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:41 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:42 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:43 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:44 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:45 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:46 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:47 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:48 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Service (daemon) start,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:49 AM",Service Started,192.168.142.140,0,192.168.142.140,Normal
+Service (daemon) stop,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:50 AM",Service Stopped,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:51 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:52 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:53 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:54 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:55 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:56 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:57 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:32:58 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:01 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:02 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Service (daemon) start,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:03 AM",Service Started,192.168.142.140,0,192.168.142.140,Normal
+Service (daemon) stop,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:04 AM",Service Stopped,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:05 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:06 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:07 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:08 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:09 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:10 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:11 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:12 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:13 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:14 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Service (daemon) start,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:15 AM",Service Started,192.168.142.140,0,192.168.142.140,Normal
+Service (daemon) stop,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:16 AM",Service Stopped,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:17 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:18 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:19 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:20 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:21 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:22 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:23 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:24 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:25 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:26 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Service (daemon) start,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:27 AM",Service Started,192.168.142.140,0,192.168.142.140,Normal
+Service (daemon) stop,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:28 AM",Service Stopped,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:29 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:30 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:31 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:32 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:33 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:34 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:35 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:36 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:37 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:38 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Service (daemon) start,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:39 AM",Service Started,192.168.142.140,0,192.168.142.140,Normal
+Service (daemon) stop,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:40 AM",Service Stopped,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:41 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:42 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:43 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:44 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:45 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:46 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:47 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:48 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:49 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:50 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Service (daemon) start,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:51 AM",Service Started,192.168.142.140,0,192.168.142.140,Normal
+Service (daemon) stop,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:52 AM",Service Stopped,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:53 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:54 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:55 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:56 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:33:57 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:01 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:02 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:03 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:04 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:05 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Service (daemon) start,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:06 AM",Service Started,192.168.142.140,0,192.168.142.140,Normal
+Service (daemon) stop,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:07 AM",Service Stopped,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:08 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:09 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:10 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:11 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:12 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:13 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:14 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:15 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:16 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:17 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Service (daemon) start,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:18 AM",Service Started,192.168.142.140,0,192.168.142.140,Normal
+Service (daemon) stop,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:19 AM",Service Stopped,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:20 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:21 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:22 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:23 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:24 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:25 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:26 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:27 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:28 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:29 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Service (daemon) start,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:30 AM",Service Started,192.168.142.140,0,192.168.142.140,Normal
+Service (daemon) stop,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:31 AM",Service Stopped,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:32 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:33 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+"Create,delete,negotiate",LinuxServer @vmcentosTA,222,"May 14, 2024, 11:34:34 AM",Information,192.168.142.140,0,192.168.142.140,Normal
+Ssh Message,LinuxServer @vmcentosTA,74,"May 14, 2024, 11:34:35 AM",Messages,192.168.142.140,0,192.168.142.140,Normal
+Service (daemon) stop,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:36 AM",Service Stopped,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:37 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:38 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:39 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:40 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:41 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:42 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:43 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:44 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:45 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:46 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Service (daemon) start,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:47 AM",Service Started,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:48 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:49 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:50 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:51 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:52 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:53 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+"Create,delete,negotiate",LinuxServer @vmcentosTA,222,"May 14, 2024, 11:34:54 AM",Information,192.168.142.140,0,192.168.142.140,Normal
+Ssh Message,LinuxServer @vmcentosTA,74,"May 14, 2024, 11:34:55 AM",Messages,192.168.142.140,0,192.168.142.140,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:34:56 AM",Stored,192.168.142.140,0,192.168.142.140,Normal
+Service (daemon) start,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:00 AM",Service Started,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:01 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:02 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:03 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:04 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:05 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:06 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+"Create,delete,negotiate",LinuxServer @vmcentosTA,222,"May 14, 2024, 11:35:07 AM",Information,192.168.142.140,0,192.168.142.142,Normal
+Ssh Message,LinuxServer @vmcentosTA,74,"May 14, 2024, 11:35:08 AM",Messages,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:09 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Service (daemon) stop,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:10 AM",Service Stopped,192.168.142.140,0,192.168.142.142,Normal
+Service (daemon) start,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:11 AM",Service Started,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:12 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:13 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:14 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:15 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:16 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:17 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+"Create,delete,negotiate",LinuxServer @vmcentosTA,222,"May 14, 2024, 11:35:18 AM",Information,192.168.142.140,0,192.168.142.142,Normal
+Ssh Message,LinuxServer @vmcentosTA,74,"May 14, 2024, 11:35:19 AM",Messages,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:20 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Service (daemon) stop,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:21 AM",Service Stopped,192.168.142.140,0,192.168.142.142,Normal
+Service (daemon) start,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:22 AM",Service Started,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:23 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:24 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:25 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:26 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:27 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:28 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:29 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Service (daemon) stop,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:30 AM",Service Stopped,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:31 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:32 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:33 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:34 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:35 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:36 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:37 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:38 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:39 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:40 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Service (daemon) start,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:41 AM",Service Started,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:42 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:43 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:44 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:45 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:46 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:47 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+"Create,delete,negotiate",LinuxServer @vmcentosTA,222,"May 14, 2024, 11:35:48 AM",Information,192.168.142.140,0,192.168.142.142,Normal
+Ssh Message,LinuxServer @vmcentosTA,74,"May 14, 2024, 11:35:49 AM",Messages,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:50 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Service (daemon) stop,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:51 AM",Service Stopped,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:52 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:53 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:54 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:55 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:56 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:57 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:58 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:35:59 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:36:04 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:36:05 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Service (daemon) start,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:36:06 AM",Service Started,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:36:07 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:36:08 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:36:09 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:36:10 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:36:11 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:36:12 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+"Create,delete,negotiate",LinuxServer @vmcentosTA,222,"May 14, 2024, 11:36:13 AM",Information,192.168.142.140,0,192.168.142.142,Normal
+Ssh Message,LinuxServer @vmcentosTA,74,"May 14, 2024, 11:36:14 AM",Messages,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:36:15 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Service (daemon) stop,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:36:16 AM",Service Stopped,192.168.142.140,0,192.168.142.142,Normal
+Service (daemon) start,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:36:17 AM",Service Started,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:36:18 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:36:19 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:36:20 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:36:21 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:36:22 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:36:23 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+"Create,delete,negotiate",LinuxServer @vmcentosTA,222,"May 14, 2024, 11:36:24 AM",Information,192.168.142.140,0,192.168.142.142,Normal
+Ssh Message,LinuxServer @vmcentosTA,74,"May 14, 2024, 11:36:25 AM",Messages,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:36:26 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Service (daemon) stop,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:36:27 AM",Service Stopped,192.168.142.140,0,192.168.142.142,Normal
+Service (daemon) start,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:36:28 AM",Service Started,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:36:29 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:36:30 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:36:31 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:36:32 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:36:33 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:36:34 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+"Create,delete,negotiate",LinuxServer @vmcentosTA,222,"May 14, 2024, 11:36:35 AM",Information,192.168.142.140,0,192.168.142.142,Normal
+Ssh Message,LinuxServer @vmcentosTA,74,"May 14, 2024, 11:36:36 AM",Messages,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:36:37 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Service (daemon) stop,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:36:38 AM",Service Stopped,192.168.142.140,0,192.168.142.142,Normal
+Service (daemon) start,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:36:39 AM",Service Started,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:36:40 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:36:41 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:36:42 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:36:43 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:36:44 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:36:45 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+"Create,delete,negotiate",LinuxServer @vmcentosTA,222,"May 14, 2024, 11:36:46 AM",Information,192.168.142.140,0,192.168.142.142,Normal
+Ssh Message,LinuxServer @vmcentosTA,74,"May 14, 2024, 11:36:47 AM",Messages,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:36:48 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Service (daemon) stop,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:36:49 AM",Service Stopped,192.168.142.140,0,192.168.142.142,Normal
+Service (daemon) start,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:36:50 AM",Service Started,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:36:51 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:36:52 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:36:53 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:36:54 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:36:55 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:36:56 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+"Create,delete,negotiate",LinuxServer @vmcentosTA,222,"May 14, 2024, 11:36:57 AM",Information,192.168.142.140,0,192.168.142.142,Normal
+Ssh Message,LinuxServer @vmcentosTA,74,"May 14, 2024, 11:36:58 AM",Messages,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:37:04 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Service (daemon) stop,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:37:05 AM",Service Stopped,192.168.142.140,0,192.168.142.142,Normal
+Service (daemon) start,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:37:06 AM",Service Started,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:37:07 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:37:08 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:37:09 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:37:10 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:37:11 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:37:12 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+"Create,delete,negotiate",LinuxServer @vmcentosTA,222,"May 14, 2024, 11:37:13 AM",Information,192.168.142.140,0,192.168.142.142,Normal
+Ssh Message,LinuxServer @vmcentosTA,74,"May 14, 2024, 11:37:14 AM",Messages,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:37:15 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:37:16 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Linux login messages,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:37:17 AM",Stored,192.168.142.140,0,192.168.142.142,Normal
+Service (daemon) stop,LinuxServer @vmcentosTA,1,"May 14, 2024, 11:37:18 AM",Service Stopped,192.168.142.140,0,192.168.142.142,Normal
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:10 AM",Distributed DoS,9.208.113.246,15974,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:18 AM",Distributed DoS,184.0.94.14,55747,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:47 AM",Distributed DoS,11.200.148.171,18220,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:42 AM",Distributed DoS,208.63.66.199,62391,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:03 AM",Distributed DoS,24.11.100.23,33582,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:04 AM",Distributed DoS,165.101.153.183,29372,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:04 AM",Distributed DoS,154.247.234.211,6224,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:05 AM",Distributed DoS,107.104.222.63,2987,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:22 AM",Distributed DoS,136.109.217.108,49915,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:11 AM",Distributed DoS,87.78.70.150,44617,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:26 AM",Distributed DoS,216.57.213.147,62254,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:04 AM",Distributed DoS,153.22.25.158,15564,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:28 AM",Distributed DoS,218.151.49.182,56358,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:45 AM",Distributed DoS,255.138.209.67,60415,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:15 AM",Distributed DoS,211.136.164.184,54520,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:16 AM",Distributed DoS,198.155.106.199,52144,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:44 AM",Distributed DoS,109.24.196.57,53867,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:23 AM",Distributed DoS,110.192.45.157,16852,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:27 AM",Distributed DoS,78.9.117.205,57816,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:22 AM",Distributed DoS,213.40.139.170,32257,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:18 AM",Distributed DoS,98.184.163.12,16565,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:31 AM",Distributed DoS,147.220.213.20,25920,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:13 AM",Distributed DoS,47.231.125.13,59098,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:44 AM",Distributed DoS,171.92.50.147,50250,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:34 AM",Distributed DoS,126.61.41.136,61605,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:17 AM",Distributed DoS,250.51.52.140,10496,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:04 AM",Distributed DoS,4.113.85.138,32219,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:30 AM",Distributed DoS,108.29.164.5,9735,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:04 AM",Distributed DoS,169.194.75.224,31900,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:23 AM",Distributed DoS,59.146.241.27,6446,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:05 AM",Distributed DoS,120.127.41.155,50489,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:44 AM",Distributed DoS,88.144.253.50,57401,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:03 AM",Distributed DoS,115.85.150.246,62669,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:12 AM",Distributed DoS,14.170.32.143,11526,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:23 AM",Distributed DoS,188.100.235.162,7212,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:35 AM",Distributed DoS,38.93.155.107,57217,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:34 AM",Distributed DoS,38.93.155.107,1541,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:12 AM",Distributed DoS,7.89.130.136,45424,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:19 AM",Distributed DoS,14.95.150.211,3951,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:08 AM",Distributed DoS,119.47.38.243,31080,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:10 AM",Distributed DoS,9.208.113.246,15974,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:18 AM",Distributed DoS,184.0.94.14,55747,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:38:47 AM",Distributed DoS,11.200.148.171,18220,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:47:53 AM",Distributed DoS,236.12.31.211,33633,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:47:53 AM",Distributed DoS,247.120.112.62,42654,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:47:24 AM",Distributed DoS,241.107.207.254,39448,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:47:24 AM",Distributed DoS,226.180.193.5,40378,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:52 AM",Distributed DoS,239.202.161.28,10590,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:51 AM",Distributed DoS,244.91.160.189,47269,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:49 AM",Distributed DoS,202.18.99.216,45546,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:37 AM",Distributed DoS,124.53.191.127,24112,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:36 AM",Distributed DoS,223.144.4.106,22231,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:32 AM",Distributed DoS,156.143.198.45,40027,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:18 AM",Distributed DoS,30.161.156.81,10444,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:24 AM",Distributed DoS,43.14.121.70,46709,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:04 AM",Distributed DoS,173.159.27.97,37969,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:37 AM",Distributed DoS,34.69.149.187,42998,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:15 AM",Distributed DoS,70.106.173.115,11876,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:33 AM",Distributed DoS,214.112.136.70,2112,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:44 AM",Distributed DoS,187.215.244.131,51487,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:31 AM",Distributed DoS,195.28.221.75,53099,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:50 AM",Distributed DoS,175.221.114.185,39360,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:11 AM",Distributed DoS,20.129.134.221,41134,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:26 AM",Distributed DoS,164.201.127.87,13272,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:50 AM",Distributed DoS,207.204.116.186,38588,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:29 AM",Distributed DoS,186.62.28.182,24740,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:37 AM",Distributed DoS,104.231.160.8,37032,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:02 AM",Distributed DoS,144.250.74.72,53119,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:31 AM",Distributed DoS,192.75.8.209,63228,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:23 AM",Distributed DoS,68.9.49.141,3210,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:05 AM",Distributed DoS,202.194.61.48,22839,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:03 AM",Distributed DoS,32.79.229.126,36942,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:16 AM",Distributed DoS,46.20.106.140,43199,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:32 AM",Distributed DoS,49.174.78.85,18153,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:47 AM",Distributed DoS,142.98.135.227,16425,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:31 AM",Distributed DoS,61.129.129.117,33933,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:42 AM",Distributed DoS,165.126.24.228,25945,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:36 AM",Distributed DoS,194.113.155.137,26143,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:40 AM",Distributed DoS,104.35.88.152,42186,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:22 AM",Distributed DoS,199.18.195.45,63666,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:29 AM",Distributed DoS,153.33.200.217,37774,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:48 AM",Distributed DoS,211.109.112.49,45979,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:10 AM",Distributed DoS,42.1.4.36,45667,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:29 AM",Distributed DoS,68.245.67.94,60829,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:36 AM",Distributed DoS,86.58.83.21,59263,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:39 AM",Distributed DoS,162.123.134.8,51725,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:26 AM",Distributed DoS,73.93.201.165,34512,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:46 AM",Distributed DoS,92.243.67.155,16761,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:12 AM",Distributed DoS,164.4.162.163,3423,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:04 AM",Distributed DoS,207.61.237.223,30597,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:08 AM",Distributed DoS,74.76.54.124,58170,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:17 AM",Distributed DoS,97.112.144.225,16051,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:04 AM",Distributed DoS,205.45.16.133,35726,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:12 AM",Distributed DoS,210.199.166.178,44310,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:22 AM",Distributed DoS,117.232.21.129,54426,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:12 AM",Distributed DoS,183.101.96.47,27100,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:18 AM",Distributed DoS,240.230.247.163,39489,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:27 AM",Distributed DoS,47.49.71.223,59331,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:18 AM",Distributed DoS,184.176.150.128,52121,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:13 AM",Distributed DoS,85.196.115.157,46401,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:14 AM",Distributed DoS,175.251.49.78,42782,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:31 AM",Distributed DoS,190.126.135.24,61613,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:11 AM",Distributed DoS,104.17.71.105,40770,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:14 AM",Distributed DoS,16.135.203.201,1079,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:17 AM",Distributed DoS,117.180.197.217,28005,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:08 AM",Distributed DoS,25.225.109.33,51849,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:25 AM",Distributed DoS,110.4.250.238,51495,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:04 AM",Distributed DoS,193.209.193.89,48826,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:31 AM",Distributed DoS,15.227.240.235,26566,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:02 AM",Distributed DoS,248.89.241.28,63430,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:30 AM",Distributed DoS,58.43.131.67,6945,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:11 AM",Distributed DoS,201.84.202.222,20131,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:20 AM",Distributed DoS,82.212.40.96,13835,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:24 AM",Distributed DoS,133.178.66.60,31338,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:21 AM",Distributed DoS,66.4.26.9,7399,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:29 AM",Distributed DoS,60.214.3.200,45132,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:35 AM",Distributed DoS,217.211.89.208,43874,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:11 AM",Distributed DoS,121.208.152.128,2143,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:23 AM",Distributed DoS,30.41.5.114,33395,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:23 AM",Distributed DoS,255.144.142.129,8719,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:25 AM",Distributed DoS,67.56.50.230,3607,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:27 AM",Distributed DoS,248.106.190.164,3077,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:30 AM",Distributed DoS,130.53.141.125,58857,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:32 AM",Distributed DoS,32.186.72.28,28337,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:34 AM",Distributed DoS,244.234.13.177,56175,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:36 AM",Distributed DoS,2.233.9.115,38385,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:38 AM",Distributed DoS,37.98.65.169,64443,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:40 AM",Distributed DoS,168.16.198.177,24045,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:42 AM",Distributed DoS,209.204.113.254,39891,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:44 AM",Distributed DoS,144.55.50.54,21705,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:46 AM",Distributed DoS,66.156.247.23,12280,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:48 AM",Distributed DoS,76.40.40.118,43260,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:50 AM",Distributed DoS,93.130.18.247,36954,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:51 AM",Distributed DoS,182.215.179.224,52982,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:52 AM",Distributed DoS,46.49.255.189,24957,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:53 AM",Distributed DoS,205.18.116.153,41759,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:54 AM",Distributed DoS,246.235.250.13,6100,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:55 AM",Distributed DoS,16.242.166.212,30834,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:56 AM",Distributed DoS,213.72.108.13,5319,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:57 AM",Distributed DoS,216.44.0.194,45189,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:58 AM",Distributed DoS,217.3.0.128,36622,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:42:59 AM",Distributed DoS,124.165.161.170,40842,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:00 AM",Distributed DoS,207.208.241.195,47266,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:01 AM",Distributed DoS,131.86.102.157,19283,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:02 AM",Distributed DoS,121.95.11.185,44697,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:03 AM",Distributed DoS,108.81.72.108,38896,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:04 AM",Distributed DoS,119.191.167.74,42200,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:06 AM",Distributed DoS,159.18.86.233,39216,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:08 AM",Distributed DoS,165.29.159.1,26893,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:08 AM",Distributed DoS,20.19.148.176,12126,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:09 AM",Distributed DoS,179.244.137.179,29538,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:10 AM",Distributed DoS,81.127.2.161,49511,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:11 AM",Distributed DoS,60.208.110.175,20303,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:12 AM",Distributed DoS,144.16.84.147,2419,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:13 AM",Distributed DoS,128.85.39.15,48595,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:14 AM",Distributed DoS,19.211.168.218,52248,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:15 AM",Distributed DoS,155.124.101.170,32248,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:16 AM",Distributed DoS,145.99.174.182,15432,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:17 AM",Distributed DoS,139.159.177.86,16254,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:18 AM",Distributed DoS,66.111.192.172,6001,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:19 AM",Distributed DoS,189.134.172.117,59147,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:20 AM",Distributed DoS,53.230.228.229,44217,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:21 AM",Distributed DoS,70.162.111.53,5773,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:22 AM",Distributed DoS,62.152.146.34,22776,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:23 AM",Distributed DoS,67.159.84.85,14148,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:24 AM",Distributed DoS,1.221.9.243,2766,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:25 AM",Distributed DoS,179.154.249.139,48285,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:26 AM",Distributed DoS,10.156.203.206,6913,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:27 AM",Distributed DoS,188.107.221.84,22324,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:28 AM",Distributed DoS,106.29.109.250,10143,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:29 AM",Distributed DoS,104.66.2.33,53566,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:30 AM",Distributed DoS,140.168.42.145,1068,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:31 AM",Distributed DoS,131.229.175.35,40694,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:32 AM",Distributed DoS,214.150.15.104,59722,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:33 AM",Distributed DoS,188.91.169.208,55467,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:34 AM",Distributed DoS,13.176.203.86,13278,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:35 AM",Distributed DoS,53.233.40.24,17513,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:36 AM",Distributed DoS,218.129.78.77,16703,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:37 AM",Distributed DoS,122.254.212.101,19430,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:37 AM",Distributed DoS,3.186.136.163,12453,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:38 AM",Distributed DoS,189.226.134.196,36429,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:39 AM",Distributed DoS,169.36.36.96,34304,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:40 AM",Distributed DoS,17.227.131.43,11165,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:41 AM",Distributed DoS,8.154.150.109,29838,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:42 AM",Distributed DoS,214.232.38.20,40341,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:43 AM",Distributed DoS,65.97.116.42,3552,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:44 AM",Distributed DoS,98.145.46.209,59245,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:45 AM",Distributed DoS,221.48.71.128,8843,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:46 AM",Distributed DoS,252.86.176.2,18284,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:47 AM",Distributed DoS,37.117.158.223,50602,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:48 AM",Distributed DoS,36.230.35.127,28031,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:49 AM",Distributed DoS,241.237.200.145,50942,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:50 AM",Distributed DoS,82.170.199.245,11795,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:51 AM",Distributed DoS,101.110.180.191,47561,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:52 AM",Distributed DoS,3.197.37.28,27854,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:53  AM",Distributed DoS,23.199.40.25,51697,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:54 AM",Distributed DoS,43.47.4.243,33874,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:55 AM",Distributed DoS,33.185.17.139,30749,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:56 AM",Distributed DoS,113.28.243.121,18123,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:57 AM",Distributed DoS,145.90.175.109,16082,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:58 AM",Distributed DoS,120.227.253.91,13858,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:43:59 AM",Distributed DoS,14.23.108.209,26344,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:02 AM",Distributed DoS,2.170.221.81,1794,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:03 AM",Distributed DoS,139.237.175.123,32368,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:04 AM",Distributed DoS,121.214.17.17,35651,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:05 AM",Distributed DoS,113.243.206.251,61828,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:06 AM",Distributed DoS,116.231.60.186,56072,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:07 AM",Distributed DoS,34.10.235.192,55118,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:08 AM",Distributed DoS,110.121.240.57,9633,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:08 AM",Distributed DoS,37.76.87.172,26935,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:09 AM",Distributed DoS,223.189.116.173,59129,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:10 AM",Distributed DoS,187.60.250.117,38015,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:11 AM",Distributed DoS,124.29.156.45,5500,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:12 AM",Distributed DoS,41.109.219.144,8385,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:13 AM",Distributed DoS,110.62.61.54,38639,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:14 AM",Distributed DoS,13.192.230.191,43777,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:15 AM",Distributed DoS,107.104.176.79,33580,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:16 AM",Distributed DoS,245.155.39.213,37798,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:17 AM",Distributed DoS,115.8.159.200,40837,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:18 AM",Distributed DoS,13.249.64.168,8752,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:19 AM",Distributed DoS,180.200.68.18,15758,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:20 AM",Distributed DoS,20.37.154.192,39797,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:21 AM",Distributed DoS,34.41.255.246,4399,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:22 AM",Distributed DoS,196.14.73.194,15639,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:23 AM",Distributed DoS,155.105.21.195,11589,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:24 AM",Distributed DoS,20.201.107.96,52855,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:25 AM",Distributed DoS,77.199.194.195,25961,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:26 AM",Distributed DoS,41.157.236.23,62479,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:27 AM",Distributed DoS,205.175.91.226,53680,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:28 AM",Distributed DoS,195.56.41.69,20164,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:29 AM",Distributed DoS,66.157.189.223,28773,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:30 AM",Distributed DoS,255.21.195.163,7465,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:31 AM",Distributed DoS,190.214.21.199,47116,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:32 AM",Distributed DoS,181.186.48.166,38333,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:33 AM",Distributed DoS,123.113.168.165,55670,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:34 AM",Distributed DoS,144.98.62.201,30197,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:35 AM",Distributed DoS,38.62.71.72,18779,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:36 AM",Distributed DoS,207.195.149.240,9993,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:37 AM",Distributed DoS,94.194.201.240,38330,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:37 AM",Distributed DoS,65.17.251.252,40087,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:38 AM",Distributed DoS,109.143.244.72,64967,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:39 AM",Distributed DoS,85.205.29.184,15838,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:40 AM",Distributed DoS,247.7.199.144,17878,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:41 AM",Distributed DoS,182.50.171.127,22748,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:42 AM",Distributed DoS,164.90.149.157,36651,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:43 AM",Distributed DoS,66.15.66.192,59525,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:44 AM",Distributed DoS,201.130.181.39,19893,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:45 AM",Distributed DoS,44.128.34.239,8074,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:46 AM",Distributed DoS,110.38.40.170,36688,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:47 AM",Distributed DoS,10.13.14.79,28090,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:48 AM",Distributed DoS,83.88.222.51,17129,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:49 AM",Distributed DoS,71.156.133.205,10531,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:50 AM",Distributed DoS,20.53.233.195,17885,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:51 AM",Distributed DoS,7.253.199.73,52084,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:52 AM",Distributed DoS,19.188.31.14,21645,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:53 AM",Distributed DoS,35.159.177.22,54248,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:54 AM",Distributed DoS,108.157.211.50,37335,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:55 AM",Distributed DoS,97.241.170.35,52557,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:56 AM",Distributed DoS,199.104.191.231,30965,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:57 AM",Distributed DoS,148.17.49.18,32755,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:58 AM",Distributed DoS,172.194.144.79,59976,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:44:59 AM",Distributed DoS,6.52.249.116,31760,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:00 AM",Distributed DoS,17.157.16.98,64429,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:05 AM",Distributed DoS,251.164.209.165,64526,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:06 AM",Distributed DoS,24.244.104.41,38857,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:07 AM",Distributed DoS,90.166.180.91,58636,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:08 AM",Distributed DoS,187.117.17.159,12066,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:09 AM",Distributed DoS,61.136.253.198,31483,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:10 AM",Distributed DoS,84.211.21.187,47924,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:10 AM",Distributed DoS,199.187.105.101,51862,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:11 AM",Distributed DoS,128.167.232.31,34619,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:12 AM",Distributed DoS,217.159.216.36,6487,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:13 AM",Distributed DoS,102.149.230.97,37490,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:14 AM",Distributed DoS,137.131.251.64,33975,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:15 AM",Distributed DoS,89.45.77.71,31534,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:16 AM",Distributed DoS,250.82.148.103,27366,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:17 AM",Distributed DoS,211.191.210.29,61734,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:18 AM",Distributed DoS,52.72.176.51,61281,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:19 AM",Distributed DoS,10.244.226.137,15353,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:20 AM",Distributed DoS,17.9.60.174,43353,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:21 AM",Distributed DoS,205.147.149.118,62023,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:22 AM",Distributed DoS,122.225.41.199,13101,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:23 AM",Distributed DoS,215.155.5.233,11597,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:24 AM",Distributed DoS,102.24.115.42,54515,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:25 AM",Distributed DoS,129.157.88.43,34024,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:26 AM",Distributed DoS,80.246.93.40,21549,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:27 AM",Distributed DoS,165.29.93.117,39176,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:28 AM",Distributed DoS,114.77.33.161,37582,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:29 AM",Distributed DoS,50.171.118.13,14102,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:30 AM",Distributed DoS,102.181.246.136,2821,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:31 AM",Distributed DoS,103.138.246.251,20809,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:32 AM",Distributed DoS,12.35.132.69,15633,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:33 AM",Distributed DoS,125.241.57.54,25491,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:34 AM",Distributed DoS,67.152.169.66,12594,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:35 AM",Distributed DoS,4.253.18.238,6783,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:36 AM",Distributed DoS,241.145.199.187,59275,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:37 AM",Distributed DoS,9.210.221.239,28876,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:38 AM",Distributed DoS,71.58.14.113,7567,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:39 AM",Distributed DoS,132.102.122.21,61922,192.168.142.142,DDoS
+Terdeteksi DDoS Attack,Custom Rule Engine-8 :: qradar,1,"May 14, 2024, 11:45:40 AM",Distributed DoS,22.119.62.2,52802,192.168.142.142,DDoS
